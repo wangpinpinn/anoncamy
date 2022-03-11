@@ -1,0 +1,2 @@
+# anoncamy
+pastebin / {x} bin
